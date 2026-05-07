@@ -1,17 +1,26 @@
-# Web Framework
+# Base Web Framework
 streamlit
 
-# Data Handling
+# Frontend Components & Interactivity
+streamlit-folium
+streamlit-js-eval
+
+# Mapping & Geospatial
+folium
+geopy
+
+# Data Science & Processing
 pandas
 numpy
 
-# Geospatial & Mapping (for geocoder.py and map features)
-geopy
-streamlit-folium
-folium
+# Networking & Utilities
+requests
+urllib3
 
-# Image Processing (for your burger logos and restaurant images)
+# Image Processing (Required for st.image and local assets)
 Pillow
 
-# Database/Storage (Optional - include if you are connecting to Snowflake)
+# ---------------------------------------------------------
+# Optional: Uncomment if you migrate to Snowflake later
 # snowflake-connector-python
+# ---------------------------------------------------------
