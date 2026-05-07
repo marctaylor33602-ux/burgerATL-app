@@ -103,7 +103,7 @@ st.title("🍔 Buck's Burger Scout")
 
 
 # --- 1.2 API & PATHS ---
-API_KEY = "AIzaSyDgakJhHteGv1mpS171P1-1ryJ5h73VzDA"
+## API_KEY = "AIzaSyDgakJhHteGv1mpS171P1-1ryJ5h73Vz##"
 CSV_FILE = "burger_ratings.csv"
 
 # Request location from the browser
