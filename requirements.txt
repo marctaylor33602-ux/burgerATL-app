@@ -1,0 +1,17 @@
+# Web Framework
+streamlit
+
+# Data Handling
+pandas
+numpy
+
+# Geospatial & Mapping (for geocoder.py and map features)
+geopy
+streamlit-folium
+folium
+
+# Image Processing (for your burger logos and restaurant images)
+Pillow
+
+# Database/Storage (Optional - include if you are connecting to Snowflake)
+# snowflake-connector-python
